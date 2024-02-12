@@ -1,0 +1,7 @@
+Zona Coresi: N-620,S-640,V-635,E-620
+Zara: N-624,S-625,V-631,E-630: imbracaminte
+HelpNet: N-627,S-628,V-631,E-630: farmacie
+Starbucks: N-630,S-631,V-625,E-624: cafenea
+Zona Republicii: N-600,S-610,V-664,E-661
+Catena: N-602,S-603,V-664,E-663: farmacie
+Cato: N-607,S-608,V-662,E-661: imbracaminte

@@ -1,0 +1,109 @@
+
+g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ĞÀÑŸÏ1
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÑÀÑŸÏ1
+g	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÑÀÑŸÏ1
+h	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÓÀÑŸÏ1
+h	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÓÀÑŸÏ1
+½
+java:S6539
+"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 28 to the maximum authorized 20 or less.(êÊ‹ˆ8×ÀÑŸÏ1
+
+java:S1192‚"aDefine a constant instead of duplicating this literal ", Coordonatele Geografice: Nord:" 3 times.(¯¿Õá8ÙÀÑŸÏ1
+f
+java:S1192„"HDefine a constant instead of duplicating this literal ", Vest:" 4 times.(ï·ßÿ8ÚÀÑŸÏ1
+r
+java:S1192"TDefine a constant instead of duplicating this literal ", Numele parcarii: " 3 times.(ÚÜã›8ÚÀÑŸÏ1
+j
+java:S1192…"GDefine a constant instead of duplicating this literal ", Est:" 4 times.(†˜’Ëüÿÿÿÿ8ÚÀÑŸÏ1
+e
+java:S1192ƒ"GDefine a constant instead of duplicating this literal ", Sud:" 4 times.(óª§—8ÚÀÑŸÏ1
+q
+java:S1192:"ODefine a constant instead of duplicating this literal "File not found" 3 times.(¨ØÎûÿÿÿÿ8îØŸÏ1
+
+java:S1319"lThe type of "parkingZones" should be an interface such as "List" rather than the implementation "ArrayList".(ÛçÎ†ùÿÿÿÿ8İÀÑŸÏ1
+‘
+java:S1319"oThe type of "commercialZones" should be an interface such as "List" rather than the implementation "ArrayList".(ç‰ØŞúÿÿÿÿ8İÀÑŸÏ1
+
+java:S1319"mThe type of "parkingSituation" should be an interface such as "Map" rather than the implementation "HashMap".(¦ùŠ¼ÿÿÿÿÿ8İÀÑŸÏ1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á«Êçüÿÿÿÿ8ŞÀÑŸÏ1
+m	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†â¤Ü8ŞÀÑŸÏ1
+n	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ŞÀÑŸÏ1
+n	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+n	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡…ˆ8ßÀÑŸÏ1
+z
+java:S1104"XMake parkingZones a static final constant or non-public and provide accessors if needed.(ÛçÎ†ùÿÿÿÿ8áÀÑŸÏ1
+}
+java:S1104"[Make commercialZones a static final constant or non-public and provide accessors if needed.(ç‰ØŞúÿÿÿÿ8áÀÑŸÏ1
+~
+java:S1104"\Make parkingSituation a static final constant or non-public and provide accessors if needed.(¦ùŠ¼ÿÿÿÿÿ8áÀÑŸÏ1
+T
+java:S1444"2Make this "public static parkingZones" field final(ÛçÎ†ùÿÿÿÿ8âÀÑŸÏ1
+W
+java:S1444"5Make this "public static commercialZones" field final(ç‰ØŞúÿÿÿÿ8âÀÑŸÏ1
+X
+java:S1444"6Make this "public static parkingSituation" field final(¦ùŠ¼ÿÿÿÿÿ8âÀÑŸÏ1
+7
+java:S1220""Move this file to a named package.8äÀÑŸÏ1
+p	java:S116"TRename this field "BASE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô¾8¸ÆÑŸÏ1
+O
+java:S2387"-"font" is the name of a field in "Component".(ˆøº¨ÿÿÿÿÿ8ÇÆÑŸÏ1
+¤
+java:S1186î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8ÊÆÑŸÏ1
+¤
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8ÊÆÑŸÏ1
+¤
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8ÊÆÑŸÏ1
+
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®—ËF8ÊÆÑŸÏ1
+Ÿ
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç¨Î§8ËÆÑŸÏ1
+A
+java:S1659"$Declare "fieldY" on a separate line.(šÒ°Ü8ÎÆÑŸÏ1
+?
+java:S2386"Make this member "protected".(ÛçÎ†ùÿÿÿÿ8ĞÆÑŸÏ1
+?
+java:S2386"Make this member "protected".(ç‰ØŞúÿÿÿÿ8ÑÆÑŸÏ1
+?
+java:S2386"Make this member "protected".(¦ùŠ¼ÿÿÿÿÿ8ÑÆÑŸÏ1
+G
+java:S1948"%Make "car" transient or serializable.(­äÖÙüÿÿÿÿ8ÑÆÑŸÏ1
+n
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ôÀª~8ğñØŸÏ1
+M
+java:S24468"0"notify" may not wake up the appropriate thread.(ŒâÌ†8óÆÑŸÏ1
+L	java:S106:"+Replace this use of System.out by a logger.(¨ØÎûÿÿÿÿ8ôÆÑŸÏ1
+{
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÆÑŸÏ1
+M
+java:S2446M"0"notify" may not wake up the appropriate thread.(ŒâÌ†8²ÇÑŸÏ1
+L	java:S106O"+Replace this use of System.out by a logger.(¨ØÎûÿÿÿÿ8›ÇÑŸÏ1
+€
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8ñÆÑŸÏ1
+M
+java:S2446a"0"notify" may not wake up the appropriate thread.(ŒâÌ†8³ÇÑŸÏ1
+L	java:S106c"+Replace this use of System.out by a logger.(¨ØÎûÿÿÿÿ8¡ÇÑŸÏ1
+€
+java:S2142o"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8ôÆÑŸÏ1
+t
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ß¥‚†üÿÿÿÿ8øÆÑŸÏ1
+\
+java:S1659—">Declare "S" and all following declarations on a separate line.(‰‡…ˆ8ÇÑŸÏ1
+\
+java:S1659±">Declare "S" and all following declarations on a separate line.(‰‡…ˆ8ˆÇÑŸÏ1
+H	java:S106‰"+Replace this use of System.out by a logger.(Ğ¢¿²8¦ÇÑŸÏ1
+H	java:S106 "+Replace this use of System.out by a logger.(Ú´ÚÑ8«ÇÑŸÏ1
+H	java:S106·"+Replace this use of System.out by a logger.(Ú´ÚÑ8‘ÒŸÏ1
+M	java:S106Í"+Replace this use of System.out by a logger.(† ¹Üúÿÿÿÿ8³òØŸÏ1
+N
+java:S2446İ"0"notify" may not wake up the appropriate thread.(ŒâÌ†8¶–ÔŸÏ1
+N
+java:S2446æ"0"notify" may not wake up the appropriate thread.(ŒâÌ†8¶òØŸÏ1
+
+java:S2142ï"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8¶ÇÑŸÏ1
+
+java:S2142‚"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8¹ÇÑŸÏ1
